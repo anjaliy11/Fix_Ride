@@ -52,6 +52,6 @@ These are concatenated and passed through dense layers to predict the likelihood
 ### Installation
 
 ```bash
-git clone https://github.com/your-username/Fix_Ride.git
+git clone https://github.com/anjaliy11/Fix_Ride.git
 cd Fix_Ride
 pip install -r requirements.txt
