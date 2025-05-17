@@ -3,18 +3,23 @@ node_modules/
 
 # Ignore environment files
 .env
-# Ignore all .json files
-*.json
 
-# Ignore all .pkl files
+# Ignore all .csv, .json, and .pkl files
+*.csv
+*.json
 *.pkl
+
 # Ignore log files
 *.log
+
+# Ignore Python cache files
 __pycache__/
+
 # Ignore build folders
 dist/
 build/
 venv/
+
 # Ignore system files
 .DS_Store
 Thumbs.db
