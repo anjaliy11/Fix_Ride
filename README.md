@@ -1,4 +1,4 @@
-🚗 Fix_Ride – AI-Powered Mechanic Recommendation System
+## 🚗 Fix_Ride – AI-Powered Mechanic Recommendation System
 
 Fix_Ride is a machine learning–driven recommendation engine designed to match users with the most suitable mechanics based on real-world parameters like **service type**, **location (via Haversine distance)**, **user preferences**, and **interaction history**.
 
