@@ -3,9 +3,11 @@ node_modules/
 
 # Ignore environment files
 .env
-.csv
-.json
-.pkl
+# Ignore all .json files
+*.json
+
+# Ignore all .pkl files
+*.pkl
 # Ignore log files
 *.log
 __pycache__/
